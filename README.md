@@ -1,7 +1,7 @@
 # Domain-Specific-Chatbot  --- Data
 # Chatbot with NLP and Deep Learning  
-This just for storage or sharing purpose not for active development
-![Alt Text](https://drive.google.com/file/d/1dSeGRWUOemPaNyyuSDZN_MMeKFZrCHUi/view?usp=drive_link)
+This just for storage or sharing purpose not for active development  
+Demo -  ![Image Description](https://drive.google.com/uc?id=1dSeGRWUOemPaNyyuSDZN_MMeKFZrCHUi)
 ## Overview  
 This project implements a **Python chatbot** that uses **Natural Language Processing (NLP)** for query classification and **Deep Learning** for response generation. The chatbot is trained using neural networks and includes **data preprocessing, model training, and an interactive user interface**.  
 
